@@ -80,6 +80,7 @@
   border-radius: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
 }
 .registro-button2 {
   top: 382px;
@@ -96,6 +97,7 @@
   border-radius: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
 }
 .registro-button3 {
   top: 462px;
@@ -112,6 +114,7 @@
   border-radius: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
 }
 .registro-button4 {
   top: 545px;
@@ -128,6 +131,7 @@
   border-radius: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
 }
 .registro-button5 {
   top: 626px;
@@ -144,6 +148,24 @@
   border-radius: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
+}
+.registro-button06 {
+  top: 218px;
+  left: 24px;
+  width: 328px;
+  height: 45px;
+  display: flex;
+  padding: 9px 16px 10px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
 }
 .registro-text {
   top: 114px;
