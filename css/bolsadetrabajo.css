@@ -1,0 +1,863 @@
+.bolsadetrabajo-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bolsadetrabajo-bolsade-t-rabajo {
+  width: 375px;
+  height: 842px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 375px;
+  box-shadow: 60.000003814697266px 60.000003814697266px 60.000003814697266px 0px rgba(44, 0, 70, 0.10000000149011612) ;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 8px;
+  border-radius: 44px;
+  background-color: rgba(242, 240, 243, 1);
+}
+.bolsadetrabajo-bg {
+  top: 0px;
+  left: -1px;
+  width: 369px;
+  height: 829px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-svg {
+  top: 48.000144958496094px;
+  left: -114.99998474121094px;
+  width: 381;
+  height: 381;
+  position: absolute;
+}
+.bolsadetrabajo-svg01 {
+  top: -41.999900817871094px;
+  left: 128.0000457763672px;
+  width: 381;
+  height: 381;
+  position: absolute;
+}
+.bolsadetrabajo-svg02 {
+  top: 638px;
+  left: 509.0000915527344px;
+  width: 381;
+  height: 381;
+  position: absolute;
+}
+.bolsadetrabajo-svg03 {
+  top: 548px;
+  left: 266.00006103515625px;
+  width: 381;
+  height: 381;
+  position: absolute;
+}
+.bolsadetrabajo-rectangle161 {
+  top: -19px;
+  left: 0px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.bolsadetrabajo-pngwing6 {
+  top: 549px;
+  left: 552px;
+  width: 435px;
+  height: 594px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-pngwing5 {
+  top: 374px;
+  left: -115px;
+  width: 356px;
+  height: 545px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-group2 {
+  top: 246.00003051757812px;
+  left: 32px;
+  width: 144px;
+  height: 186px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-svg04 {
+  width: 144;
+  height: 186;
+  position: absolute;
+}
+.bolsadetrabajo-text {
+  top: 152.99996948242188px;
+  left: 15px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 400px;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-text01 {
+  top: 114px;
+  left: 14px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 700px;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-mask-group {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-image8 {
+  top: -2px;
+  left: -12px;
+  width: 169px;
+  height: 120px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-image1 {
+  top: -33px;
+  left: -28px;
+  width: 199px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-group4 {
+  top: 80px;
+  left: 96px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(173, 140, 234, 1);
+}
+.bolsadetrabajo-group3 {
+  top: 246.00003051757812px;
+  left: 203px;
+  width: 144px;
+  height: 186px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-svg05 {
+  width: 144;
+  height: 186;
+  position: absolute;
+}
+.bolsadetrabajo-text02 {
+  top: 155px;
+  left: 14px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 400px;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-text03 {
+  top: 114px;
+  left: 14px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 700px;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-mask-group1 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-image81 {
+  top: -2px;
+  left: -12px;
+  width: 169px;
+  height: 120px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-image2 {
+  top: -7px;
+  left: -7px;
+  width: 158px;
+  height: 125px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-group41 {
+  top: 80px;
+  left: 96px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(173, 140, 234, 1);
+}
+.bolsadetrabajo-group42 {
+  top: 452.0000305175781px;
+  left: 16px;
+  width: 169px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-svg06 {
+  left: 25px;
+  width: 144;
+  height: 186;
+  position: absolute;
+}
+.bolsadetrabajo-text07 {
+  top: 156px;
+  left: 36px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 400px;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-frame687 {
+  top: 112px;
+  left: 0px;
+  width: 36px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.bolsadetrabajo-text08 {
+  top: 114px;
+  left: 39px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 700px;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-mask-group2 {
+  top: 0px;
+  left: 25px;
+  width: 144px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-image82 {
+  top: -2px;
+  left: -12px;
+  width: 169px;
+  height: 120px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-navlink {
+  display: contents;
+}
+.bolsadetrabajo-image3 {
+  top: -5px;
+  left: -84px;
+  width: 273px;
+  height: 118px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.bolsadetrabajo-group252 {
+  top: 79.99996948242188px;
+  left: 121px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-group43 {
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(173, 140, 234, 1);
+}
+.bolsadetrabajo-rectangle166 {
+  top: 17.000030517578125px;
+  left: 32px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-rectangle165 {
+  top: 7.000030517578125px;
+  left: 17px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-group5 {
+  top: 452.0000305175781px;
+  left: 212px;
+  width: 144px;
+  height: 186px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-svg07 {
+  width: 144;
+  height: 186;
+  position: absolute;
+}
+.bolsadetrabajo-text12 {
+  top: 155.99996948242188px;
+  left: 8px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 400px;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-text13 {
+  top: 114px;
+  left: 14px;
+  color: rgba(60, 65, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 700px;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-mask-group3 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-image83 {
+  top: -2px;
+  left: -12px;
+  width: 169px;
+  height: 120px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-image4 {
+  top: -10px;
+  left: 0px;
+  width: 149px;
+  height: 111px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bolsadetrabajo-group44 {
+  top: 80px;
+  left: 96px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(173, 140, 234, 1);
+}
+.bolsadetrabajo-rectangle1661 {
+  top: 17px;
+  left: 32px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-rectangle1651 {
+  top: 7px;
+  left: 17px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-text17 {
+  top: 180px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: PT Sans;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-rectangle1652 {
+  top: 333.0000305175781px;
+  left: 144px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-rectangle1662 {
+  top: 344.0000305175781px;
+  left: 160px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-rectangle167 {
+  top: 342.0000305175781px;
+  left: 332px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-rectangle168 {
+  top: 331.0000305175781px;
+  left: 316px;
+  width: 4px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-text18 {
+  top: 690px;
+  left: 110px;
+  color: rgba(140, 128, 151, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-text19 {
+  top: 69px;
+  left: 92px;
+  color: rgba(32, 14, 50, 1);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-status-bar-light {
+  top: 4px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bolsadetrabajo-status-bar-battery {
+  top: 13px;
+  left: 334px;
+  width: 27px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(250, 62, 62, 1);
+}
+.bolsadetrabajo-svg08 {
+  top: 4.5px;
+  left: 2px;
+  width: 24;
+  height: 12;
+  position: absolute;
+}
+.bolsadetrabajo-svg09 {
+  top: 6.5px;
+  left: 4px;
+  width: 18;
+  height: 8;
+  position: absolute;
+}
+.bolsadetrabajo-status-bar-wi-fi {
+  top: 13px;
+  left: 292px;
+  width: 41px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-bounds {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  opacity: 0.00;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: rgba(150, 150, 150, 1);
+  border-width: 0px;
+  background-color: rgba(250, 62, 62, 1);
+}
+.bolsadetrabajo-bounds1 {
+  top: 0px;
+  left: 21px;
+  width: 20px;
+  height: 20px;
+  opacity: 0.00;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: rgba(150, 150, 150, 1);
+  border-width: 0px;
+  background-color: rgba(250, 62, 62, 1);
+}
+.bolsadetrabajo-svg10 {
+  top: 4.604999542236328px;
+  left: 23.872406005859375px;
+  width: 15;
+  height: 11;
+  position: absolute;
+}
+.bolsadetrabajo-status-bar-service {
+  top: 17.75px;
+  left: 293.5px;
+  width: 17px;
+  height: 10.5px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-svg11 {
+  width: 17;
+  height: 11;
+  position: absolute;
+}
+.bolsadetrabajo-time {
+  top: 14.000097274780273px;
+  left: 28px;
+  width: 27px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.bolsadetrabajo-text20 {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: PT Sans;
+  font-weight: 400px;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bolsadetrabajo-tabbar {
+  top: 761px;
+  left: 0px;
+  width: 375px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 0.8999999761581421);
+}
+.bolsadetrabajo-icon {
+  top: 24.000011444091797px;
+  left: 35.00004959106445px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.bolsadetrabajo-navlink1 {
+  display: contents;
+}
+.bolsadetrabajo-icon1 {
+  top: 24.000011444091797px;
+  left: 128.7500457763672px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.bolsadetrabajo-navlink2 {
+  display: contents;
+}
+.bolsadetrabajo-icon2 {
+  top: 24.000011444091797px;
+  left: 222.50006103515625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.bolsadetrabajo-navlink3 {
+  display: contents;
+}
+.bolsadetrabajo-icon3 {
+  top: 24.000011444091797px;
+  left: 316.25006103515625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.bolsadetrabajo-navlink4 {
+  display: contents;
+}
+.bolsadetrabajo-image360f292969762xd-i-pl86ke-o403hm4h-vyhq-a-d-dj-w-lq-dq-mbremovebgpreview1 {
+  top: 7px;
+  left: 35px;
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.bolsadetrabajo-svg12 {
+  top: 699px;
+  left: 252px;
+  width: 25;
+  height: 0;
+  position: absolute;
+}
