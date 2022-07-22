@@ -9,6 +9,7 @@
 }
 .iniciodesesin-bg {
   width: 375px;
+  left:-53;
   height: 812px;
   display: flex;
   overflow: hidden;
@@ -77,7 +78,7 @@
   text-decoration: none;
 }
 .iniciodesesin-text2 {
-  top: 391px;
+  top: 385px;
   left: 116px;
   color: rgba(40, 17, 82, 1);
   height: auto;
@@ -312,10 +313,43 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.iniciodesesin-button_email{
+  top: 314px;
+  left: 24px;
+  width: 328px;
+  height: 45px;
+  display: flex;
+  padding: 9px 16px 10px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
+}
+.iniciodesesin-button_contraseña{
+  top: 410px;
+  left: 24px;
+  width: 328px;
+  height: 45px;
+  display: flex;
+  padding: 9px 16px 10px 16px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+  border: solid 1px black;
+}
 @media(max-width: 479px) {
   .iniciodesesin-bg {
     top: 0px;
-    left: 52px;
     height: 864px;
     position: absolute;
   }
@@ -324,9 +358,5 @@
     left: -9px;
     width: 423px;
     height: 922px;
-  }
-  .iniciodesesin-text2 {
-    top: 330px;
-    left: 111px;
   }
 }
