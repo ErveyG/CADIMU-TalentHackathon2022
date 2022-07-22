@@ -82,7 +82,7 @@
 }
 .apoyar-text01 {
   top: 124px;
-  left: 36px;
+  left: 50px;
   color: rgba(32, 14, 50, 1);
   width: 285px;
   height: auto;
@@ -99,7 +99,6 @@
 }
 .apoyar-text02 {
   top: 245px;
-  left: 10px;
   color: rgba(140, 128, 151, 1);
   height: auto;
   position: absolute;
@@ -108,14 +107,14 @@
   font-style: normal;
   text-align: center;
   font-family: Work Sans;
-  font-weight: 500px;
+  font-weight: 510px;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  left: 45px;
 }
 @media(max-width: 479px) {
   .apoyar-text02 {
     top: 258px;
-    left: 49px;
   }
 }
