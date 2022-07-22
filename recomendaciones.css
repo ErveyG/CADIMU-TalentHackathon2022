@@ -817,13 +817,4 @@
   height: 0;
   position: absolute;
 }
-@media(max-width: 479px) {
-  .recomendaciones-image1 {
-    top: -2px;
-    left: -17px;
-  }
-  .recomendaciones-text36 {
-    top: 683px;
-    left: 98px;
-  }
-}
+
