@@ -112,8 +112,8 @@
   position: absolute;
 }
 .bolsadetrabajo-text {
-  top: 152.99996948242188px;
-  left: 15px;
+  top: 145px;
+  left: -8px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -128,8 +128,8 @@
   text-decoration: none;
 }
 .bolsadetrabajo-text01 {
-  top: 114px;
-  left: 14px;
+  top: 125px;
+  left: -10px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -166,20 +166,21 @@
   border-color: transparent;
 }
 .bolsadetrabajo-image1 {
-  top: -33px;
-  left: -28px;
-  width: 199px;
-  height: 161px;
+  top: 0px;
+  left: -15px;
+  width: 169px;
+  height: 120px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  border-radius:0 15px 0 15px;
 }
 .bolsadetrabajo-group4 {
-  top: 80px;
-  left: 96px;
-  width: 38px;
-  height: 38px;
+  top: 82px;
+  left: 117px;
+  width: 34px;
+  height: 34px;
   display: flex;
   position: absolute;
   box-sizing: border-box;
@@ -187,6 +188,13 @@
   flex-shrink: 1;
   border-color: transparent;
   background-color: rgba(173, 140, 234, 1);
+  border-radius: 15px;
+}
+.recomendaciones-group4_plus{
+  background-color: rgba(173, 140, 234, 1);
+  border-radius: 10px;
+  width: 34px;
+  height: 34px;
 }
 .bolsadetrabajo-group3 {
   top: 246.00003051757812px;
@@ -207,7 +215,7 @@
 }
 .bolsadetrabajo-text02 {
   top: 155px;
-  left: 14px;
+  left: 0px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -222,8 +230,8 @@
   text-decoration: none;
 }
 .bolsadetrabajo-text03 {
-  top: 114px;
-  left: 14px;
+  top: 125px;
+  left: 0px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -260,20 +268,21 @@
   border-color: transparent;
 }
 .bolsadetrabajo-image2 {
-  top: -7px;
+  top: 0px;
   left: -7px;
-  width: 158px;
-  height: 125px;
+  width: 169px;
+  height: 120px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  border-radius:0 15px 0 15px;
 }
 .bolsadetrabajo-group41 {
   top: 80px;
-  left: 96px;
-  width: 38px;
-  height: 38px;
+  left: 125px;
+  width: 34px;
+  height: 34px;
   display: flex;
   position: absolute;
   box-sizing: border-box;
@@ -281,6 +290,13 @@
   flex-shrink: 1;
   border-color: transparent;
   background-color: rgba(173, 140, 234, 1);
+  border-radius: 15px;
+}
+.recomendaciones-group41_plus{
+  background-color: rgba(173, 140, 234, 1);
+  border-radius: 10px;
+  width: 34px;
+  height: 34px;
 }
 .bolsadetrabajo-group42 {
   top: 452.0000305175781px;
@@ -301,8 +317,8 @@
   position: absolute;
 }
 .bolsadetrabajo-text07 {
-  top: 156px;
-  left: 36px;
+  top: 145px;
+  left: 6px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -329,8 +345,8 @@
   border-color: transparent;
 }
 .bolsadetrabajo-text08 {
-  top: 114px;
-  left: 39px;
+  top: 116px;
+  left: 4px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -370,15 +386,16 @@
   display: contents;
 }
 .bolsadetrabajo-image3 {
-  top: -5px;
-  left: -84px;
-  width: 273px;
-  height: 118px;
+  top: -7px;
+  left: -22px;
+  width: 169px;
+  height: 120px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
   text-decoration: none;
+  border-radius:0 15px 0 15px;
 }
 .bolsadetrabajo-group252 {
   top: 79.99996948242188px;
@@ -393,10 +410,10 @@
   border-color: transparent;
 }
 .bolsadetrabajo-group43 {
-  top: 0px;
-  left: 0px;
-  width: 38px;
-  height: 38px;
+  top: -5px;
+  left: 12px;
+  width: 34px;
+  height: 34px;
   display: flex;
   position: absolute;
   box-sizing: border-box;
@@ -404,6 +421,13 @@
   flex-shrink: 1;
   border-color: transparent;
   background-color: rgba(173, 140, 234, 1);
+  border-radius: 15px;
+}
+.recomendaciones-group43_plus{
+  background-color: rgba(173, 140, 234, 1);
+  border-radius: 10px;
+  width: 34px;
+  height: 34px;
 }
 .bolsadetrabajo-rectangle166 {
   top: 17.000030517578125px;
@@ -447,8 +471,8 @@
   position: absolute;
 }
 .bolsadetrabajo-text12 {
-  top: 155.99996948242188px;
-  left: 8px;
+  top: 145px;
+  left: -5px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -464,7 +488,7 @@
 }
 .bolsadetrabajo-text13 {
   top: 114px;
-  left: 14px;
+  left: -7px;
   color: rgba(60, 65, 88, 1);
   height: auto;
   position: absolute;
@@ -502,19 +526,20 @@
 }
 .bolsadetrabajo-image4 {
   top: -10px;
-  left: 0px;
-  width: 149px;
-  height: 111px;
+  left: -10px;
+  width: 169px;
+  height: 120px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  border-radius:0 15px 0 15px;
 }
 .bolsadetrabajo-group44 {
-  top: 80px;
-  left: 96px;
-  width: 38px;
-  height: 38px;
+  top: 72px;
+  left: 120px;
+  width: 34px;
+  height: 34px;
   display: flex;
   position: absolute;
   box-sizing: border-box;
@@ -522,6 +547,13 @@
   flex-shrink: 1;
   border-color: transparent;
   background-color: rgba(173, 140, 234, 1);
+  border-radius: 15px;
+}
+.recomendaciones-group44_plus{
+  background-color: rgba(173, 140, 234, 1);
+  border-radius: 10px;
+  width: 34px;
+  height: 34px;
 }
 .bolsadetrabajo-rectangle1661 {
   top: 17px;

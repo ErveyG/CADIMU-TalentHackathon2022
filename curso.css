@@ -582,7 +582,7 @@
 }
 .curso-group7 {
   top: 384.5px;
-  left: 0px;
+  left: 25px;
   width: 464px;
   height: 186px;
   display: flex;
@@ -610,7 +610,7 @@
   position: absolute;
 }
 .curso-text06 {
-  top: 134px;
+  top: 142px;
   left: 14px;
   color: rgba(60, 65, 88, 1);
   height: auto;
@@ -626,7 +626,7 @@
   text-decoration: none;
 }
 .curso-text07 {
-  top: 114px;
+  top: 120px;
   left: 14px;
   color: rgba(60, 65, 88, 1);
   height: auto;
@@ -656,8 +656,8 @@
 .curso-image8 {
   top: -2px;
   left: -12px;
-  width: 169px;
-  height: 120px;
+  width: 142px;
+  height: 122px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
@@ -758,7 +758,9 @@
   border-color: transparent;
 }
 .curso-svg32 {
-  width: 144;
+  top: -27px;
+  left: -30px;
+  width: 169;
   height: 186;
   position: absolute;
 }
@@ -775,27 +777,28 @@
   border-color: transparent;
 }
 .curso-image1 {
-  top: -32px;
-  left: -16px;
-  width: 198px;
-  height: 132px;
+  top: -5px;
+  left: -5px;
+  width: 142px;
+  height: 122px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
+  border-radius: 0 20px 0 0;
 }
 .curso-group41 {
   top: 80px;
   left: 94px;
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
   position: absolute;
   box-sizing: border-box;
   object-fit: cover;
   border-color: transparent;
 }
 .curso-text10 {
-  top: 134px;
+  top: 142px;
   left: 14px;
   color: rgba(255, 255, 255, 1);
   width: 123px;
@@ -812,7 +815,7 @@
   text-decoration: none;
 }
 .curso-text11 {
-  top: 114px;
+  top: 120px;
   left: 14px;
   color: rgba(255, 255, 255, 1);
   height: auto;
@@ -1019,8 +1022,8 @@
   border-color: transparent;
 }
 .curso-group252 {
-  top: 532px;
-  left: 119px;
+  top: 540px;
+  left: 140px;
   width: 34px;
   height: 34px;
   display: flex;
@@ -1043,6 +1046,13 @@
   border-color: transparent;
   background-color: rgba(173, 140, 234, 1);
 }
+.curso-group42_plus{
+  background-color: rgba(173, 140, 234, 1);
+  border-radius: 15px;
+  width: 25px;
+  height:25px;
+}
+
 .curso-rectangle166 {
   top: 15.210526466369629px;
   left: 28.63134765625px;
